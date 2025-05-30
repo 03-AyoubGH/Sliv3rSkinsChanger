@@ -1,4 +1,29 @@
 {
   "leaguePath": "C:\\Riot Games\\League of Legends\\Game",
-  "appliedSkins": []
+  "appliedSkins": [
+    [
+      "Sion",
+      {
+        "champion": "Sion",
+        "skinName": "Blackfrost Sion",
+        "appliedAt": "2025-05-30T15:13:46.072Z"
+      }
+    ],
+    [
+      "Cho'Gath",
+      {
+        "champion": "Cho'Gath",
+        "skinName": "Dark Star Cho'Gath",
+        "appliedAt": "2025-05-30T15:50:59.051Z"
+      }
+    ],
+    [
+      "Mordekaiser",
+      {
+        "champion": "Mordekaiser",
+        "skinName": "PROJECT Mordekaiser",
+        "appliedAt": "2025-05-30T15:56:39.174Z"
+      }
+    ]
+  ]
 }
